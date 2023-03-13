@@ -4,5 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ui-monospace&weight=700&pause=1000&width=435&lines=in+the+process+of+learning+.+.+.)](https://git.io/typing-svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=solarized_dark)
+
 ![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399)
 
