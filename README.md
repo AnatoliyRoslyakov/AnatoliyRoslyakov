@@ -6,7 +6,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
 
-<h3>The road to 5 kyu</h3> 
+<h3>The road to 5 kyu ⬆ </h3> 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399)
 
