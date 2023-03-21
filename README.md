@@ -10,5 +10,5 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399)
 
-![]([https://pa1.narvii.com/7184/76831ba1d20d10693332ba659497bfdd1ab56f37r1-840-700_hq.gif](https://thumbs.gfycat.com/BonyBoilingIncatern-size_restricted.gif))
+![](https://cdn.dribbble.com/users/103573/screenshots/2009065/free-herat-d.gif)
 
