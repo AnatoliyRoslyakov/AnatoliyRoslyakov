@@ -10,7 +10,8 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399)
 
-![](https://cdn.dribbble.com/users/103573/screenshots/2009065/free-herat-d.gif)
+![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399&theme=gradient)
 
-<img src="https://cdn.dribbble.com/users/103573/screenshots/2009065/free-herat-d.gif" width="200" />
+
+<img src="https://cdn.dribbble.com/users/103573/screenshots/2009065/free-herat-d.gif" width="300" />
 
