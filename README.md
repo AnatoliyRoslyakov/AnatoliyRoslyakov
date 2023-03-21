@@ -9,9 +9,5 @@
 <h3>The road to 5 kyu ⬆ </h3> 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399)
-
-![Codewars](https://github.r2v.ch/codewars?user=Anatoliy3399&theme=gradient)
-
-
 <img src="https://cdn.dribbble.com/users/103573/screenshots/2009065/free-herat-d.gif" width="300" />
 
