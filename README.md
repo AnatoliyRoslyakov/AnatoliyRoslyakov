@@ -4,7 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&duration=10000&pause=1000&color=0969DA&random=false&width=435&lines=in+the+process+of+page+layout.+.+.)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
+I have been part of developing the following applications:
+
+
+[Ужин Дома](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)
+
+[Молодая Арктика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
+
+Pet Project: [Financeflow](https://github.com/nvsces/finance-app)
+
 
 <h3>The road to 5 kyu ⬆ </h3> 
 
