@@ -13,6 +13,7 @@ I have been part of developing the following applications:
 
 Pet Project: [Financeflow](https://github.com/nvsces/finance-app)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
 
 <h3>The road to 5 kyu ⬆ </h3> 
 
