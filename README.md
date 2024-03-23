@@ -9,7 +9,7 @@ I have been part of developing the following applications:
 
 [Ужин Дома](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)
 
-[Молодая Арктика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
+[Молодая Арктика](https://apps.apple.com/ru/app/молодая-арктика/id6443747882)
 
 Pet Project: [Financeflow](https://github.com/nvsces/finance-app)
 
