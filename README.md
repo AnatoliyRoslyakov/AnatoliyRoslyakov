@@ -6,6 +6,7 @@
 
 I have been part of developing the following applications:
 
+[Crossball](https://apps.apple.com/ru/app/сrossball/id1627269403)
 
 [Ужин Дома](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)
 
