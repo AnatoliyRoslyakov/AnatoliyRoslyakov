@@ -1,21 +1,20 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/An_00000" target="_blank">Anatoliy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Mobile application developer,</h3>
+# Анатолий Росляков
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&duration=10000&pause=1000&color=0969DA&random=false&width=435&lines=in+the+process+of+page+layout.+.+.)](https://git.io/typing-svg)
+Flutter-разработчик. С 2019 года создаю мобильные, веб- и настольные приложения на Dart. В собственных продуктах пишу и клиент, и сервер на Go или Python.
 
-I have been part of developing the following applications:
+## Мои приложения
 
-[Crossball](https://apps.apple.com/ru/app/сrossball/id1627269403)
+**TeacherMate** помогает репетиторам вести расписание, домашние задания и оплаты. Сам разработал Flutter-клиент и сервер на Go, выпустил приложение в двух магазинах. Им пользуются более 2 000 человек. [App Store](https://apps.apple.com/ru/app/id6605933778) · [RuStore](https://www.rustore.ru/catalog/app/com.anatolyrosliakov.teacher_mate) · [Страница проекта](https://github.com/AnatoliyRoslyakov/teacher_mate_landing)
 
-[Ужин Дома](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)
+**Тачка** хранит историю автомобиля, ремонтов и расходов. Разработал клиент на Flutter и API на Python и FastAPI. Пользователь может просмотреть статистику или выгрузить историю в CSV. [App Store](https://apps.apple.com/ru/app/id6797004119) · [Техническое описание](projects/tachka.md)
 
-[Молодая Арктика](https://apps.apple.com/ru/app/молодая-арктика/id6443747882)
+## Интерактивные проекты
 
-Pet Project: [Financeflow](https://github.com/nvsces/finance-app)
+- [Конструктор колец](https://github.com/AnatoliyRoslyakov/ring_constructor) — 3D-витрина, где можно выбрать отделку кольца и камень. JavaScript, Three.js и GSAP.
+- [Мой куб / GTA 67](https://github.com/AnatoliyRoslyakov/gta67/tree/4) — городской квартал на Godot и GDScript. Можно наблюдать за жителями и переключаться на управление прохожим.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnatoliyRoslyakov&theme=apprentice)
+## Командная разработка
 
-![](https://komarev.com/ghpvc/?username=your-github-AnatoliyRoslyakov)
+В CRTEX довожу функции до релиза, интегрирую API, участвую в code review. В студийной разработке работал над [Crossball](https://apps.apple.com/ru/app/id1627269403), [«Ужин Дома»](https://apps.apple.com/ru/app/id1564443317) и [«Молодой Арктикой»](https://apps.apple.com/ru/app/id6443747882). В лаборатории навигационных систем писал настольные приложения для обработки потоковых данных. Среди других проектов — [Financeflow](https://github.com/nvsces/finance-app).
 
-
+[Связаться в Telegram](https://t.me/An_00000)
