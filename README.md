@@ -1,20 +1,28 @@
 # Анатолий Росляков
 
-Flutter-разработчик. С 2019 года создаю мобильные, веб- и настольные приложения на Dart. В собственных продуктах пишу и клиент, и сервер на Go или Python.
+**Flutter-разработчик** · Москва · [Telegram](https://t.me/An_00000)
 
-## Мои приложения
+С 2019 года разрабатываю на Dart и Flutter. В коммерческих проектах веду клиентскую разработку от проектирования до релиза. Самостоятельно развиваю два мобильных продукта.
 
-**TeacherMate** помогает репетиторам вести расписание, домашние задания и оплаты. Сам разработал Flutter-клиент и сервер на Go, выпустил приложение в двух магазинах. Им пользуются более 2 000 человек. [App Store](https://apps.apple.com/ru/app/id6605933778) · [RuStore](https://www.rustore.ru/catalog/app/com.anatolyrosliakov.teacher_mate) · [Страница проекта](https://github.com/AnatoliyRoslyakov/teacher_mate_landing)
+## Коммерческие проекты
 
-**Тачка** хранит историю автомобиля, ремонтов и расходов. Разработал клиент на Flutter и API на Python и FastAPI. Подключил вход через Telegram и чат с DeepSeek. Водитель описывает расход сообщением и проверяет запись перед сохранением. [App Store](https://apps.apple.com/ru/app/id6797004119) · [Техническое описание](projects/tachka.md)
+**Финтех · CRTEX.** Мобильное и веб-приложения криптокошелька. Работаю над продуктом с 2024 года. Проект под NDA.
 
-## Интерактивные проекты
+**Заказная разработка.** Работал над приложениями [Crossball](https://apps.apple.com/ru/app/id1627269403), [«Ужин Дома»](https://apps.apple.com/ru/app/id1564443317) и [«Молодая Арктика»](https://apps.apple.com/ru/app/id6443747882). Сопровождал их от интеграций до выхода релизных сборок.
 
-- [Конструктор колец](https://github.com/AnatoliyRoslyakov/ring_constructor) — 3D-витрина, где можно выбрать отделку кольца и камень. JavaScript, Three.js и GSAP. [Открыть конструктор](https://anatoliyroslyakov-ring-constructor-c87d.twc1.net/).
-- [Мой куб / GTA 67](https://github.com/AnatoliyRoslyakov/gta67/tree/4) — городской квартал на Godot и GDScript. Можно наблюдать за жителями и переключаться на управление прохожим. [Открыть квартал](https://mycube.tech/).
+**УИЦ «ЛНС».** Разрабатывал специализированное кроссплатформенное ПО на Flutter для работы с навигационным оборудованием. В числе задач — обработка потока измерений и визуализация данных в реальном времени.
 
-## Командная разработка
+## Собственные приложения
 
-В CRTEX довожу функции до релиза, интегрирую API, участвую в code review. В студийной разработке работал над [Crossball](https://apps.apple.com/ru/app/id1627269403), [«Ужин Дома»](https://apps.apple.com/ru/app/id1564443317) и [«Молодой Арктикой»](https://apps.apple.com/ru/app/id6443747882). В лаборатории навигационных систем писал настольные приложения для обработки потоковых данных. Среди других проектов — [Financeflow](https://github.com/nvsces/finance-app).
+**TeacherMate** — расписание, ученики и оплаты в одном приложении для репетитора. Продуктом пользуются более 2 000 человек.
 
-[Связаться в Telegram](https://t.me/An_00000)
+[App Store](https://apps.apple.com/ru/app/id6605933778) · [RuStore](https://www.rustore.ru/catalog/app/com.anatolyrosliakov.teacher_mate) · [О проекте](https://github.com/AnatoliyRoslyakov/teacher_mate_landing)
+
+**Тачка** — журнал расходов и обслуживания автомобиля. Водитель может описать заправку сообщением, проверить предложенную сумму и сохранить запись.
+
+[App Store](https://apps.apple.com/ru/app/id6797004119) · [Google Play](https://play.google.com/store/apps/details?id=com.tachka.myApp) · [О проекте](projects/tachka.md)
+
+## Pet-проекты
+
+- [ORIGIN](https://anatoliyroslyakov-ring-constructor-c87d.twc1.net/) — конструктор колец с параметрической 3D-моделью. [Код](https://github.com/AnatoliyRoslyakov/ring_constructor)
+- [Мой куб](https://mycube.tech/) — интерактивный квартал на Godot. Из общего вида города можно перейти к управлению прохожим. [Код](https://github.com/AnatoliyRoslyakov/gta67/tree/4)
